@@ -23,6 +23,13 @@ Students often face the following challenges:
 Traditional study methods do not adapt to individual learning patterns.
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the Application Here:**  
+👉 https://assistant-coffee-e9q-draft.caffeine.xyz/
+
+---
+
 
 ## 💡 Solution
 
